@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/scinfu/SwiftSoup.git", from: "1.7.4"),
         .package(url: "https://github.com/cezheng/Fuzi.git", from: "3.1.2"),
-        .package(path:"/Users/lei/Projects/Floral/minizip"),
+        .package(url: "https://github.com/lololo/minizip.git", .branch("master")),
     ],
     targets: [
         .target(name: "R2Shared",

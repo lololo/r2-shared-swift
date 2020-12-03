@@ -11,6 +11,15 @@
         }
       },
       {
+        "package": "Minizip",
+        "repositoryURL": "https://github.com/lololo/minizip.git",
+        "state": {
+          "branch": "master",
+          "revision": "9b6ffb41db3ea7afc987df4b88b8b3632ab4ae19",
+          "version": null
+        }
+      },
+      {
         "package": "SwiftSoup",
         "repositoryURL": "https://github.com/scinfu/SwiftSoup.git",
         "state": {
